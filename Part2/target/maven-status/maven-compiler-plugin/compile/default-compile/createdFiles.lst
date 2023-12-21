@@ -1,0 +1,8 @@
+com\mycompany\part2\Part2.class
+com\mycompany\part2\persistence\exceptions\PreexistingEntityException.class
+com\mycompany\part2\persistence\PersonJpaController.class
+com\mycompany\part2\persistence\exceptions\IllegalOrphanException.class
+com\mycompany\part2\persistence\ControllerPersistence.class
+com\mycompany\part2\persistence\exceptions\NonexistentEntityException.class
+com\mycompany\part2\models\Person.class
+com\mycompany\part2\models\Person_.class
